@@ -3,11 +3,10 @@
 A lightweight web viewer and offline renderer for [Urban-GS: A Unified 3D Gaussian Splatting Framework for Compact and High-Fidelity Aerial-to-Street Reconstruction](https://github.com/wangm-buaa/Urban-GS) models, built on top of [nerfstudio](https://github.com/nerfstudio-project/nerfstudio).
 
 The core codebase is derived from [nerfstudio](https://github.com/nerfstudio-project/nerfstudio). The Gaussian-based rendering framework also follows design ideas from [yzslab/nerfstudio](https://github.com/yzslab/nerfstudio). We appreciate the open-source work and contributions from both projects.
+
+https://github.com/user-attachments/assets/fb18e827-1b83-4769-a098-cae575008891
+
 <p align="center">
-  <video width="80%" controls autoplay loop muted>
-    <source src="assert/Visualization_example.mp4" type="video/mp4">
-  </video>
-  <br>
   <em>Note: The web viewer preview may exhibit lower visual quality than the actual rendered output video.</em>
 </p>
 
