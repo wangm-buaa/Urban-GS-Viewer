@@ -4,7 +4,11 @@ A lightweight web viewer and offline renderer for [Urban-GS: A Unified 3D Gaussi
 
 The core codebase is derived from [nerfstudio](https://github.com/nerfstudio-project/nerfstudio). The Gaussian-based rendering framework also follows design ideas from [yzslab/nerfstudio](https://github.com/yzslab/nerfstudio). We appreciate the open-source work and contributions from both projects.
 
-https://github.com/user-attachments/assets/fb18e827-1b83-4769-a098-cae575008891
+
+
+https://github.com/user-attachments/assets/8c226123-3bab-483d-9dbe-06cee407070e
+
+
 
 <p align="center">
   <em>Note: The web viewer preview may exhibit lower visual quality than the actual rendered output video.</em>
