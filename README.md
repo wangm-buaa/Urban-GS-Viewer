@@ -16,8 +16,7 @@ https://github.com/user-attachments/assets/8c226123-3bab-483d-9dbe-06cee407070e
 
 ## Notes
 
-* The camera control logic has been updated to align with SIBR-style navigation. Use `WASDQE` and `IJKLUO
-* ` to control the camera.
+* The camera control logic has been updated to align with SIBR-style navigation. Use `WASDQE` and `IJKLUO` to control the camera.
 * Dynamic blur control has been disabled so the rendering resolution stays stable while the camera is moving.
 * This project is focused on rendering only. Training is not supported, the implementation has not been extensively tested, and it is not as fast as the SIBR viewers.
 * The nerfstudio web viewer can reach similar rendering quality to SIBR viewers. Recommended settings:
